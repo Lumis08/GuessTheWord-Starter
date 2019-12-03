@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../Week 6 &amp;amp; 7/GuessTheWord-Starter/app" external.root.project.path="$MODULE_DIR$/../../../Week 6 &amp;amp; 7/GuessTheWord-Starter" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
@@ -25,7 +25,7 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6\GuessTheWord-Starter\app\src\debug\kotlin;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6\GuessTheWord-Starter\app\src\debug\java;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6\GuessTheWord-Starter\app\src\release\kotlin;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6\GuessTheWord-Starter\app\src\release\java;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6\GuessTheWord-Starter\app\src\debugAndroidTest\kotlin;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6\GuessTheWord-Starter\app\src\debugUnitTest\kotlin;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6\GuessTheWord-Starter\app\src\releaseUnitTest\kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6 &amp; 7\GuessTheWord-Starter\app\src\debug\kotlin;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6 &amp; 7\GuessTheWord-Starter\app\src\debug\java;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6 &amp; 7\GuessTheWord-Starter\app\src\release\kotlin;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6 &amp; 7\GuessTheWord-Starter\app\src\release\java;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6 &amp; 7\GuessTheWord-Starter\app\src\debugAndroidTest\kotlin;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6 &amp; 7\GuessTheWord-Starter\app\src\debugUnitTest\kotlin;C:\Users\user\Desktop\College Note\BAIT2073 Mobile Application Development\Practical\Week 6 &amp; 7\GuessTheWord-Starter\app\src\releaseUnitTest\kotlin">
         <compilerSettings />
         <compilerArguments>
           <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/debug" />
