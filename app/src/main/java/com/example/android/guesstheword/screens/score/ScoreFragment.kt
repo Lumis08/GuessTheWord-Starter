@@ -17,6 +17,7 @@
 package com.example.android.guesstheword.screens.score
 
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -56,12 +57,14 @@ class ScoreFragment : Fragment() {
         viewModel = ViewModelProviders.of(this, viewModelFactory).get(ScoreViewModel::class.java)
 
         binding.scoreViewModel = viewModel
+
         // Specify the current activity as the lifecycle owner of the binding.
         // This is used so that the binding can observe LiveDate updates
         binding.lifecycleOwner = this
 
         // Navigates back to game when button is pressed
         viewModel.eventPlayAgain.observe(this, Observer { playAgain ->
+            Log.i("ScoreFragment", "This is the button Again clicked!!!")
             if (playAgain) {
                 findNavController().navigate(ScoreFragmentDirections.actionRestart())
                 viewModel.onPlayAgainComplete()

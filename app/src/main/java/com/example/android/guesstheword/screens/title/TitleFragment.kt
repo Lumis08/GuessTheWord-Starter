@@ -17,6 +17,7 @@
 package com.example.android.guesstheword.screens.title
 
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -40,6 +41,9 @@ class TitleFragment : Fragment() {
         binding.playGameButton.setOnClickListener {
             findNavController().navigate(TitleFragmentDirections.actionTitleToGame())
         }
+
+        Log.i("TitleFragment", "We are here again !!!")
+
         return binding.root
     }
 }
